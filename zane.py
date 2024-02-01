@@ -1,0 +1,1 @@
+print("bahala na si god")
